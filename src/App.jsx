@@ -1,11 +1,11 @@
 import './App.css';
-import SinglePokemon from './components/SinglePokemon';
-
+import Main from './components/Main';
+import './components/style.css'
 function App() {
   return (
     <div className="App">
-      
-      <SinglePokemon/>     
+
+      <Main/>
     </div>
   );
 }
