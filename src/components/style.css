@@ -49,8 +49,13 @@ body{
     font-size: 12px;
     border-radius: 8px;
 }
+
 .base-stat{
     margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    
+    
 }
 .btn-group{
     display: flex;
